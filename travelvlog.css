@@ -1,0 +1,19 @@
+.container-fluid{ color: aquamarine;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color:white;
+    
+    background-color: darkblue;
+}
+.navbar{
+    background-color: darkblue;
+}
+.cap{
+    display: flex;
+    justify-content: center;
+}
+.bi{
+    color: blue;
+}
